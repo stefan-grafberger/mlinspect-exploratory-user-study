@@ -23,7 +23,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ${{ env.pythonLocation }}
-          key: key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}
+          key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}
 
       - name: Install dependencies
         run: |
