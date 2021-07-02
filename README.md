@@ -10,6 +10,6 @@
 * `docker run -t --rm -p 8899:8899 stefangrafberger/mlinspect`
 
 ## Links to the task files
-* `http://localhost:8899/notebooks/experiments/user_interviews/example-task-with-solution.ipynb`
-* `http://localhost:8899/notebooks/experiments/user_interviews/task-1.ipynb`
-* `http://localhost:8899/notebooks/experiments/user_interviews/task-2.ipynb`
+* `http://localhost:8899/notebooks/user_interviews/example-task-with-solution.ipynb`
+* `http://localhost:8899/notebooks/user_interviews/task-1.ipynb`
+* `http://localhost:8899/notebooks/user_interviews/task-2.ipynb`
