@@ -19,7 +19,15 @@ setup(
         "dd94830649c89dc713d38b7b44600edba73f1b46",
         "importnb==0.6.2",
         "matplotlib==3.4.2",
-        "tensorflow==2.5.0"
+        "tensorflow==2.5.0",
+        "gensim==3.8.3",
+        "numpy==1.19.5",
+        "tensorflow==2.5.0",
+        "keras==2.4.3",
+        "scikit-learn==0.23.2",
+        "pandas==1.2.3",
+        "scipy==1.7.0",
+        "matplotlib==3.4.2"
     ],
     license='Apache License 2.0',
     python_requires='==3.9.*',
