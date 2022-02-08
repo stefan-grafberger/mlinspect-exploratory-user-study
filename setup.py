@@ -21,7 +21,7 @@ setup(
         "matplotlib==3.4.2",
         "tensorflow==2.5.0",
         "gensim==3.8.3",
-        "numpy==1.19.5",
+        "numpy==1.20.0",
         "tensorflow==2.5.0",
         "keras==2.4.3",
         "scikit-learn==0.23.2",
