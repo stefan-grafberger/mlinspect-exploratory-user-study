@@ -16,7 +16,7 @@ setup(
     include_package_data=True,
     install_requires=[
         "mlinspect[dev] @ git+https://github.com/stefan-grafberger/mlinspect.git@"
-        "7692c937b7b1fee8914ac9bf0d01238b9c00d46e",
+        "dd94830649c89dc713d38b7b44600edba73f1b46",
         "importnb==0.6.2",
         "matplotlib==3.4.2",
         "tensorflow==2.5.0"
