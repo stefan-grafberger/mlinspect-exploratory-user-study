@@ -21,7 +21,7 @@ setup(
         "matplotlib==3.4.2",
         "tensorflow==2.5.0",
         "gensim==3.8.3",
-        "numpy==1.20.0"
+        "numpy==1.19.5"
     ],
     license='Apache License 2.0',
     python_requires='==3.9.*',
