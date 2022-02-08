@@ -20,14 +20,7 @@ setup(
         "importnb==0.6.2",
         "matplotlib==3.4.2",
         "tensorflow==2.5.0",
-        "gensim==3.8.3",
-        "numpy==1.20.0",
-        "tensorflow==2.5.0",
-        "keras==2.4.3",
-        "scikit-learn==0.23.2",
-        "pandas==1.2.3",
-        "scipy==1.7.0",
-        "matplotlib==3.4.2"
+        "gensim==3.8.3"
     ],
     license='Apache License 2.0',
     python_requires='==3.9.*',
